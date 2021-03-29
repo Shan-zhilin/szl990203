@@ -1,4 +1,3 @@
-                                            有本事你点这里看看: [jenkins 测试](http://jenkins.diy8.com/view/%E7%B1%B3%E7%BB%98TestH5/job/MiHuiTestH5_mihui_ai_personal/)
                                                                 _oo0oo_
                                                                o8888888o
                                                                88" . "88
